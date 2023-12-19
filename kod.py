@@ -23,3 +23,5 @@ elif znak=="10":
     print("twoja liczba to 10")
 elif znak > "10":
     print("źle wybrałeś:(")
+else: 
+    print("kys")
